@@ -11,5 +11,6 @@
 
 const SOUNDS = [
   { name: "Eye-Tee", file: "sounds/Eye-Tee.mp3" },
+  { name: "Horatio Caine", file: "sounds/horatio-caine.mp3" },
   // { name: "Mon son", file: "sounds/mon-son.mp3" },
 ];

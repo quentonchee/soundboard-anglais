@@ -15,5 +15,6 @@ const SOUNDS = [
   { name: "Applaudissements", file: "sounds/applause.mp3" },
   { name: "Ovation", file: "sounds/crowd-cheers.mp3" },
   { name: "Message FAn", file: "sounds/message-fan.mp3" },
+  { name: "Aigle", file: "sounds/eagle.mp3" },
   // { name: "Mon son", file: "sounds/mon-son.mp3" },
 ];
